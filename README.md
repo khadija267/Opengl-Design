@@ -1,2 +1,2 @@
-# computer-gaphics-collage-course
-c++ open gl design code of movable neil armstrong via keyboard on the moon 
+# Opengl Design
+Simple design of movable astronaut via keyboard in moon with displaying other planets moon rounding automatically
